@@ -1,0 +1,235 @@
+#main-container {
+    padding-top: 20px; /* Adjust the value as needed to create space for the fixed navigation bar */
+}
+
+#navigation-buttons {
+    width: 100%; /* Full width to ensure buttons stay centered */
+    display: flex;
+    justify-content: center;
+    gap: 30px; /* Space between the buttons */
+    padding: 10px 0; /* Padding around buttons */
+    background-color: #f1f1f1; /* #f9f9f9; /* Background color to separate it from content */
+    position: fixed; /* Ensures that the navigation-buttons div is fixed to the top of the viewport, making the buttons stay visible while you scroll through the character details.*/
+    top: 0; /* Stick to the top */
+    left: 0; /* Ensure it spans the full width */
+    z-index: 1000; /* Ensure it stays above other elements */
+}
+
+#back-button, #next-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+
+.character-name {
+    position: sticky;
+    display: flex;
+    flex-direction: column;
+    top: 55px; /* Adjust this value based on the height of your navigation bar */
+    background-color: #f9f9f9; /* Optional: Background color to match the navigation bar */
+    z-index: 999; /* Ensure it stays above other content */
+    padding: 20px 0; /* Optional: Add padding to the heading */
+    margin: 0 0 20px 0;
+}
+
+#character-details {
+    display: none;
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9; /* white; */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: left;
+}
+
+#character-list {
+    display: flex;
+    flex-direction: column; /* Ensures the elements stack vertically */
+    align-items: center;    /* Centers the content */
+}
+
+#character-list h2 {
+    margin-bottom: 20px;
+    color: #007bff; /* Light blue color */
+}
+
+
+#welcome-text {
+    max-width: 600px;
+    margin: 0 auto 20px;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.json-title {
+    font-size: 20px; /* Change font size */
+    color: #007bff; /* Change color */
+}
+
+/* Apply the arrow cursor to all text elements */
+p, h1, h2, h3, h4, h5, h6, ul, li {
+    cursor: default;
+}
+
+/* Apply the hand pointer to hyperlinks and URL links */
+a {
+    cursor: pointer;
+}
+
+/* Ensure buttons retain their default cursor style */
+button {
+    cursor: pointer;
+}
+
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+h2 {
+    text-align: center;
+    color: #00bfff;
+    margin-top: 20px;
+}
+
+
+h3 {
+    text-align: left;
+    color: #00bfff;
+}
+
+
+p {
+    text-align: left;
+    margin: 10px 0;
+}
+
+
+ul {
+    list-style-type: disc;
+    margin: 10px 0;
+    padding-left: 20px;
+    text-align: left;
+}
+
+
+.button-group {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+
+button:hover {
+    background-color: #0056b3;
+}
+
+
+
+#quiz-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+#quiz-container p {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+
+#quiz-container button {
+    display: block;
+    width: 100%;
+    margin: 10px 0; /* was 5px;*/
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+
+#quiz-container button:hover {
+    background-color: #0056b3;
+}
+
+
+/* Media queries for responsiveness */
+
+/* Small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+    #welcome-text, #character-details {
+        padding: 10px;
+    }
+    h1, h2, h3, p, ul {
+        font-size: 1em;
+    }
+}
+
+/* Medium devices (tablets, 600px to 1024px) */
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+    body {
+        padding: 15px;
+    }
+    #welcome-text, #character-details {
+        padding: 15px;
+    }
+    h1, h2, h3, p, ul {
+        font-size: 1.2em;
+    }
+}
+
+/* Large devices (desktops, 1025px and up) */
+@media only screen and (min-width: 1025px) {
+    body {
+        padding: 20px;
+    }
+    #welcome-text, #character-details {
+        padding: 20px;
+    }
+    h1, h2, h3, p, ul {
+        font-size: 1.5em;
+    }
+}

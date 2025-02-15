@@ -1,0 +1,160 @@
+{
+    "name": "Paul (Saul of Tarsus)",
+    "details": {
+    "birth_and_background": "Paul, originally known as Saul, was born in Tarsus, an ancient city located in what is now modern-day Turkey. A Roman citizen by birth, Paul was educated as a <a href=\"https://en.wikipedia.org/wiki/Pharisee\" target=\"_blank\">Pharisee</a> under the famous teacher Gamaliel. Initially a persecutor of Christians, his life dramatically changed after his conversion on the road to Damascus, which is an ancient city located in the region of modern-day Syria.<br><br>As he neared Damascus, a light from heaven suddenly shone around him, and he fell to the ground, unable to see. He heard a voice saying, 'Saul, Saul, why do you persecute me?' Saul asked, 'Who are you, Lord?' The voice replied, 'I am Jesus, whom you are persecuting. Now get up and go into the city, and you will be told what you must do.' Blinded by the light, Saul was led by his companions into Damascus. There, for three days, he was without sight and did not eat or drink (<a href=\"https://www.biblegateway.com/passage/?search=Acts+9%3A3-19&version=NIV\" target=\"_blank\">Acts 9:3-9</a>).<br><br>Ananias, a disciple in Damascus, received a vision from the Lord instructing him to go to Saul. <br>Ananias went to the house, laid his hands on Saul, and said, 'Brother Saul, the Lord—Jesus, who appeared to you on the road—has sent me so that you may see again and be filled with the Holy Spirit.' Immediately, something like scales fell from Saul's eyes, and he could see again after which he was baptized. This transformative event led him to become a devoted follower of Christ, changing his name from Saul to Paul (<a href=\"https://www.biblegateway.com/passage/?search=Acts+9%3A10-19&version=NIV\" target=\"_blank\">Acts 9:10-19</a>).<br><br>Throughout his ministry, Paul faced numerous threats and plots on his life. Here are the major instances documented in the New Testament.",
+    "attempts_on_his_life": [
+            {
+                "title": "1. After His Conversion in Damascus",
+                "description": [
+                    "Following his dramatic conversion on the road to Damascus, Paul began preaching about Jesus.",
+                    "The Jews in Damascus plotted to kill him, but he escaped by being lowered in a basket through an opening in the city wall and went to Jerusalem (<a href=\"https://www.biblegateway.com/passage/?search=Acts%209%3A23-25&version=NIV\">Acts 9:23-25</a>)."
+                ]
+            },
+            {
+                "title": "2. In Jerusalem",
+                "description": [
+                    "Upon his return to Jerusalem, Paul stayed with the disciples, moved about freely, speaking boldly in the name of the Lord. He talked and debated with the Hellenistic Jews, who then attempted to kill him.",
+                    "The believers learned of this and sent Paul away to Tarsus for his safety (<a href=\"https://www.biblegateway.com/passage/?search=Acts%209%3A26-30&version=NIV\">Acts 9:26-30</a>)."
+                ]
+            },            
+            {
+                "title": "3. In Antioch of Pisidia",
+                "description": [
+                    "Paul and Barnabas faced opposition and were expelled from the city by the Jewish leaders.",
+                    "(<a href=\"https://www.biblegateway.com/passage/?search=Acts%2013%3A50-51&version=NIV\">Acts 13:50-51</a>)."
+                ]
+            },           
+            {
+                "title": "4. In Iconium",
+                "description": [
+                    "Both Jews and Gentiles plotted to mistreat and stone Paul and Barnabas.",
+                    "They fled to Lystra and Derbe when they learned of the plot (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2014%3A5-6&version=NIV\">Acts 14:5-6</a>)."
+                ]
+            },
+            {
+                "title": "5. In Lystra",
+                "description": [
+                    "Paul was stoned by a mob incited by Jews from Antioch and Iconium.",
+                    "He was dragged out of the city and left for dead, but he survived and continued his mission (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2014%3A19-20&version=NIV\">Acts 14:19-20</a>)."
+                ]
+            },
+            {
+                "title": "6. In Philippi",
+                "description": [
+                    "Paul and Silas were beaten and imprisoned after casting a spirit out of a slave girl, which angered her owners.",
+                    "They were later released by divine intervention (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2016%3A19-40&version=NIV\">Acts 16:19-40</a>)."
+                ]
+            },            
+            {
+                "title": "7. In Thessalonica",
+                "description": [
+                    "Jewish leaders incited a mob against Paul and Silas, causing them to flee to Berea (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2017%3A5-10&version=NIV\">Acts 17:5-10</a>)."
+                ]
+            },           
+            {
+                "title": "8. In Berea",
+                "description": [
+                    "When Jews from Thessalonica came to Berea to agitate and stir up the crowds, Paul was sent away to Athens for safety (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2017%3A13-15&version=NIV\">Acts 17:13-15</a>)."
+                ]
+            },            
+            {
+                "title": "9. In Corinth",
+                "description": [
+                    "Paul faced opposition and abuse from the Jews, but he received divine assurance to keep preaching.",
+                    "The Jews made a united attack and brought him to court, but the proconsul dismissed the case (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2018%3A12-17&version=NIV\">Acts 18:12-17</a>)."
+                ]
+            },
+            {
+                "title": "10. In Ephesus",
+                "description": [
+                    "A riot instigated by silversmiths threatened Paul's life as they felt their trade was being undermined by his teachings against idolatry.",
+                    "(<a href=\"https://www.biblegateway.com/passage/?search=Acts%2019%3A23-41&version=NIV\">Acts 19:23-41</a>)."
+                ]
+            },                                    
+            {
+                "title": "11. In Jerusalem",
+                "description": [
+                    "Paul was arrested after a mob tried to kill him in the temple.",
+                    "He was taken into custody by Roman soldiers who protected him from being lynched (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2021%3A30-36&version=NIV\">Acts 21:30-36</a>)."
+                ]
+            },                      
+            {
+                "title": "12. The Jewish Conspiracy to kill Paul",
+                "description": [
+                    "In Jerusalem, over forty Jews took a vow to neither eat nor drink until they had killed Paul. They went to the chief priests and the elders and said, 'We have taken a solemn oath not to eat anything until we have killed Paul.",
+                    "Now then, you and the Sanhedrin petition the commander to bring him before you on the pretext of wanting more accurate information about his case. We are ready to kill him before he gets here'",
+                    "This plot was discovered by the commander, and Paul was transferred to Caesarea under heavy guard (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2023%3A12-24&version=NIV\">Acts 23:12-24</a>)."
+                ]
+            },            
+            {
+                "title": "13. In Caesarea",
+                "description": [
+                    "Paul faced multiple trials before Roman governors and King Agrippa.",
+                    "The Jews continued to plot against him, but he was kept in Roman custody for his protection (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2024-26&version=NIV\">Acts 24-26</a>)."
+                ]
+            },            
+            {
+                "title": "14. The Snake and the Shipwreck",
+                "description": [
+                    "On his journey to Rome, Paul and his companions were shipwrecked on the island of Malta. The islanders showed them unusual kindness, lighting a fire to help them keep warm.",
+                    "Paul gathered a pile of brushwood and, as he put it on the fire, a viper, driven out by the heat, fastened itself on his hand, but Paul shook the snake off into the fire and suffered no ill effects (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2028%3A1-6&version=NIV\">Acts 28:1-6</a>).",
+                    "The islanders expected him to swell up or suddenly fall dead, but after waiting a long time and seeing nothing unusual happen to him, they changed their minds and said he was a god (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2028%3A6&version=NIV\">Acts 28:6</a>)."
+                ]
+            },            
+            {
+                "title": "15. Journey Ending in Rome",
+                "description": [
+                    "Paul eventually reached Rome where he was placed under house arrest.",
+                    "He continued to preach the gospel with boldness, welcoming all who came to him (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2028%3A16-31&version=NIV\">Acts 28:16-31</a>)."
+                ]
+            }            
+        ],
+        "miracles_performed": [
+            {
+                "title": "1. Miracle in Cyprus",
+                "description": [
+                    "Paul blinded Elymas the sorcerer for opposing the gospel, leading to the proconsul's belief (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2013%3A6-12&version=NIV\">Acts 13:6-12</a>)."
+                ]
+            },
+            {
+                "title": "2. Healing in Lystra",
+                "description": [
+                    "Paul healed a man crippled from birth, who had never walked. The man jumped up and began to walk (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2014%3A8-10&version=NIV\">Acts 14:8-10</a>)."
+                ]
+            },
+            {
+                "title": "3. Casting Out a Spirit in Philippi",
+                "description": [
+                    "Paul cast out a spirit of divination from a slave girl, which angered her owners and led to Paul's imprisonment (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2016%3A16-18&version=NIV\">Acts 16:16-18</a>)."
+                ]
+            },
+            {
+                "title": "4. Extraordinary Miracles by Paul",
+                "description": [
+                    "In Ephesus, God performed extraordinary miracles through Paul, so that even handkerchiefs and aprons that had touched him were taken to the sick, and their illnesses were cured, and the evil spirits left them. (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2019%3A11-12&version=NIV\">Acts 19:11-12</a>)."
+                ]
+            },            
+            {
+                "title": "5. Miracle in Troas",
+                "description": [
+                    "Paul raised Eutychus from the dead after he fell from a third-storey window during Paul's long sermon (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2020%3A9-12&version=NIV\">Acts 20:9-12</a>)."
+                ]
+            },
+            {
+                "title": "6. Healing on the island of Malta",
+                "description": [
+                    "After being shipwrecked on the island of Malta, Publius, the chief official of the island, welcomed Paul and his companions to his home and showed them generous hospitality for three days. The father of Publius was sick in bed, suffering from fever and dysentery. Paul went in to see him and, after prayer, placed his hands on him and healed him. After this event, the rest of the sick on the island came and were cured. (<a href=\"https://www.biblegateway.com/passage/?search=Acts%2028%3A7-9&version=NIV\">Acts 28:7-9</a>)."
+                ]
+            }            
+        ],
+        "additional_details": {
+            "missionary_journeys": "Paul's missionary journeys were marked by incredible perseverance and faith. He traveled extensively throughout the Roman Empire, preaching the gospel of Jesus Christ, establishing churches, and writing thirteen of the New Testament letters. His letters include Romans, 1st and 2nd Corinthians, Galatians, Ephesians, Philippians, Colossians, 1st and 2nd Thessalonians, 1st and 2nd Timothy, Titus, and Philemon.<br><br> Paul's achievements also include his pivotal role in spreading Christianity to the Gentiles, his theological contributions through his epistles, and his enduring legacy as a key figure in early Christian history.",
+            "major_themes": {
+                "conversion": "His transformation from a persecutor of Christians to a devoted follower of Christ.",
+                "missionary_work": "Establishing Christian communities and spreading the message of Jesus.",
+                "writings": "Author of many epistles (letters) addressing theological issues, church organization, and Christian living.",
+                "suffering": "Enduring imprisonments, beatings, shipwrecks, and threats to his life for the sake of his mission."
+            }
+        }
+    }
+}

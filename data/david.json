@@ -1,0 +1,51 @@
+{
+    "name": "David (King David)",
+    "summary": "David, the youngest son of Jesse, was anointed as the future king of Israel by the prophet Samuel. He became a legendary figure in Israelite history for his leadership, military prowess, and his role in establishing Jerusalem as the nation's capital.",
+    "details": {
+        "birth_and_background": "David was born in Bethlehem, a town in Judah. He was the youngest son of Jesse and spent his early years as a shepherd, tending to his father's sheep. David's musical talent and courage were evident from a young age, playing the harp and composing psalms. He gained widespread fame by defeating Goliath, a giant Philistine warrior, with a single stone from his sling (<a href=\"https://www.biblegateway.com/passage/?search=1+Samuel+16%3A1-13&version=NIV\" target=\"_blank\">1 Samuel 16:1-13</a>; <a href=\"https://www.biblegateway.com/passage/?search=1+Samuel+17%3A1-51&version=NIV\" target=\"_blank\">1 Samuel 17:1-51</a>).",
+        "rise_to_power": "Following his victory over Goliath, David became a favored member of King Saul's court and led successful military campaigns against Israel's enemies. However, Saul's jealousy of David's popularity led to multiple attempts on David's life.",
+        "saul_attempts": [
+            {
+                "title": "First Attempt",
+                "description": "Saul, in a fit of jealousy and rage, tried to pin David to the wall with his spear while David was playing the harp in Saul's house but David managed to elude him twice (<a href=\"https://www.biblegateway.com/passage/?search=1+Samuel+18%3A10-11&version=NIV\" target=\"_blank\">1 Samuel 18:10-11</a>)."
+            },
+            {
+                "title": "Second Attempt",
+                "description": "Again, Saul attempted to kill David with a spear while he was playing the harp (<a href=\"https://www.biblegateway.com/passage/?search=1+Samuel+19%3A9-10&version=NIV\" target=\"_blank\">1 Samuel 19:9-10</a>)."
+            },
+            {
+                "title": "Third Attempt",
+                "description": "Saul sent messengers to David's house to kill him, but David's wife Michal helped him escape through a window (<a href=\"https://www.biblegateway.com/passage/?search=1+Samuel+19%3A11-17&version=NIV\" target=\"_blank\">1 Samuel 19:11-17</a>)."
+            },
+            {
+                "title": "Fourth Attempt",
+                "description": "Saul sent messengers to Naioth to capture David. When they were unsuccessful, Saul himself went, but he ended up prophesying instead of capturing David (<a href=\"https://www.biblegateway.com/passage/?search=1+Samuel+19%3A18-24&version=NIV\" target=\"_blank\">1 Samuel 19:18-24</a>)."
+            },
+            {
+                "title": "Fifth Attempt",
+                "description": "After Jonathan warned David about Saul's intent to kill him, David fled from Saul's court (<a href=\"https://www.biblegateway.com/passage/?search=1+Samuel+20%3A1-42&version=NIV\" target=\"_blank\">1 Samuel 20:1-42</a>)."
+            },
+            {
+                "title": "Sixth Attempt",
+                "description": "Saul pursued David in the wilderness of Maon, but had to abandon the chase to fight the Philistines (<a href=\"https://www.biblegateway.com/passage/?search=1+Samuel+23%3A15-29&version=NIV\" target=\"_blank\">1 Samuel 23:15-29</a>)."
+            },
+            {
+                "title": "Seventh Attempt",
+                "description": "David had a chance to kill Saul in the cave of En-Gedi but spared his life, showing his loyalty and respect for the Lord's anointed (<a href=\"https://www.biblegateway.com/passage/?search=1+Samuel+24%3A1-22&version=NIV\" target=\"_blank\">1 Samuel 24:1-22</a>)."
+            },
+            {
+                "title": "Eighth Attempt",
+                "description": "Saul pursued David in the wilderness of Ziph. David infiltrated Saul's camp and took Saul's spear and water jug but did not harm him (<a href=\"https://www.biblegateway.com/passage/?search=1+Samuel+26%3A1-25&version=NIV\" target=\"_blank\">1 Samuel 26:1-25</a>)."
+            }
+        ],
+        "kingship_and_reign": "After Saul's death, David was anointed king over Judah and later over all Israel. His reign was marked by significant military victories, the establishment of Jerusalem as the nation's capital, and the transfer of the Ark of the Covenant to the city. David's leadership brought unity and prosperity to Israel (<a href=\"https://www.biblegateway.com/passage/?search=2+Samuel+2%3A1-4&version=NIV\" target=\"_blank\">2 Samuel 2:1-4</a>; <a href=\"https://www.biblegateway.com/passage/?search=2+Samuel+5%3A1-5&version=NIV\" target=\"_blank\">2 Samuel 5:1-5</a>; <a href=\"https://www.biblegateway.com/passage/?search=2+Samuel+6%3A12-19&version=NIV\" target=\"_blank\">2 Samuel 6:12-19</a>).",
+        "personal_struggles": "David's life was not without personal failings. His affair with Bathsheba and the arranged death of her husband, Uriah, brought great turmoil to his household and kingdom. Despite his sins, David's sincere repentance and his Psalms of lament and praise show his deep relationship with God (<a href=\"https://www.biblegateway.com/passage/?search=2+Samuel+11%3A1-27&version=NIV\" target=\"_blank\">2 Samuel 11:1-27</a>; <a href=\"https://www.biblegateway.com/passage/?search=Psalm+51&version=NIV\" target=\"_blank\">Psalm 51</a>).",
+        "legacy": "David is remembered as a man after God's own heart, known for his poetic Psalms and his central role in God's plan for Israel. He established a dynasty that would ultimately lead to the birth of Jesus Christ, referred to as the Son of David, fulfilling the Messianic prophecy (<a href=\"https://www.biblegateway.com/passage/?search=2+Samuel+7%3A12-16&version=NIV\" target=\"_blank\">2 Samuel 7:12-16</a>; <a href=\"https://www.biblegateway.com/passage/?search=Matthew+1%3A1&version=NIV\" target=\"_blank\">Matthew 1:1</a>).",
+        "major_themes": {
+            "faith_and_trust_in_god": "David's unwavering faith and reliance on God in times of trouble are central themes in his life.",
+            "leadership_and_governance": "His skills in uniting and governing Israel set a standard for future kings.",
+            "repentance_and_redemption": "David's life highlights the importance of sincere repentance and the possibility of redemption despite one's sins.",
+            "worship_and_praise": "David's Psalms continue to be a significant part of worship and devotion in both Judaism and Christianity."
+        }
+    }
+}

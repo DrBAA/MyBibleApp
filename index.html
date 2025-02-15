@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>My Bible Characters</title>
+        <link rel="stylesheet" href="styles/styles.css">
+        <script src="scripts/loadPaul.js"></script>
+        <script src="scripts/loadDavid.js"></script>
+        <script src="scripts/loadJoseph.js"></script>
+        <script src="scripts/quiz.js"></script>
+        <script src="scripts/navigation.js"></script>
+        <script src="scripts/GlobalFunctions/mouseHoverEffect.js"></script>
+    </head>
+    <body>
+        <div id="main-container">
+            <nav id="navigation-buttons" style="display: none;">
+                <button id="back-button" onclick="showAllCharactersList()">View All Characters</button>
+                <button id="next-button" onclick="loadNextCharacter()">Next Character</button>                
+                <button id="previous-button" onclick="loadPreviousCharacter()">Previous Character</button>
+            </nav>
+                            
+            <h1 id="main-heading">My Bible Characters</h1>
+            <div id="welcome-text">
+                <p>Welcome to My Bible Characters app!</p>
+                <p>Here, you can explore the fascinating stories of key figures from the Bible by clicking on a name to learn more about each character and their journey.</p>
+                <p>You will also be able to take a Quiz to test your knowledge about the Bible characters covered on this app.</p>
+
+                <h3 id="sub-heading">What to expect:</h3>
+                <ul>
+                    <li>Detailed biographies of key figures in the bible</li>
+                    <li>Important events from their lives</li>
+                    <li>Links to bible verses related to those events</li>
+                    <li>Major themes and lessons</li>
+                </ul>
+
+                <button onclick="showAllCharactersList()">Select the character you want to read about</button>
+                <button onclick="showQuiz()">Take the Quiz</button>                
+
+            </div>
+            <div id="character-list" style="display: none;">
+                <h2>Click on a name below to learn more about each character and their journey.</h2>
+                <div>
+                    <button onclick="loadPaul()">Paul</button>
+                    <button onclick="loadDavid()">David</button>
+                    <button onclick="loadJoseph()">Joseph</button>
+                    <button onclick="showWelcomePage()">Home</button>
+                    <button onclick="showQuiz()">Take the Quiz</button>
+                </div>        
+            </div>
+            <div id="quiz-section" style="display: none;">
+                <h2>Quiz</h2>
+                <div id="quiz-container"></div>
+                <button onclick="showWelcomePage()">Home</button>
+                <button id="back-button" onclick="showAllCharactersList()">View All Characters</button>
+                <button onclick="showQuiz()">Retake the Quiz</button>
+            </div>
+            <div id="character-details"></div>
+        </div>
+    </body>
+</html>

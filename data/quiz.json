@@ -1,0 +1,17 @@
+[
+    {
+        "question": "1.  Who was the youngest son of Jacob?",
+        "options": ["Joseph", "Benjamin", "David", "Paul"],
+        "answer": "Benjamin"
+    },
+    {
+        "question": "2.  Which character interpreted Pharaoh's dreams?",
+        "options": ["Joseph", "David", "Paul", "Samuel"],
+        "answer": "Joseph"
+    },
+    {
+        "question": "3.  Where was Paul (Saul of Tarsus) born?",
+        "options": ["Damascus", "Tarsus", "Lyconia", "Jerusalem"],
+        "answer": "Tarsus"
+    }
+]
