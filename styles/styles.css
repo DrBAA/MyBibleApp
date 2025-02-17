@@ -202,6 +202,8 @@ button:hover {
     }
     #welcome-text, #character-details {
         padding: 10px;
+        max-width: 100%; /* Ensures the container fits within the viewport width - ADDED 17/2/2025 TO PREVENT text from overflowing on smaller screens.*/
+        overflow-wrap: break-word; /* Ensures text wraps within the container - ADDED 17/2/2025 TO PREVENT text from overflowing on smaller screens.*/
     }
     h1, h2, h3, p, ul {
         font-size: 1em;
