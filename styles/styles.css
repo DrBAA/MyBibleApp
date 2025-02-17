@@ -201,9 +201,12 @@ button:hover {
         padding: 10px;
     }
     #welcome-text, #character-details {
-        padding: 10px;
+        padding: 10pxx;
         max-width: 100%; /* Ensures the container fits within the viewport width - ADDED 17/2/2025 TO PREVENT text from overflowing on smaller screens.*/
         overflow-wrap: break-word; /* Ensures text wraps within the container - ADDED 17/2/2025 TO PREVENT text from overflowing on smaller screens.*/
+    }
+    #character-details {
+        padding-right: 10px; /* Ensures proper padding on the right side - - ADDED 17/2/2025 TO PREVENT text from going all the way to the right margin*/
     }
     h1, h2, h3, p, ul {
         font-size: 1em;
